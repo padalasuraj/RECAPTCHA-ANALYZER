@@ -38,9 +38,7 @@ reCAPTCHA is a security mechanism used to prevent automated bots from accessing 
 
 This project is open for contributions! If you have ideas for improvements, additional solving strategies, or want to enhance the automation capabilities, feel free to fork the repository and submit pull requests.
 
-## Disclaimer
 
-Please use this tool responsibly and ethically. Automated solving of reCAPTCHA challenges may violate the terms of use of certain websites, and it's important to ensure that you're using the tool in a legal and appropriate manner.
 
 ## License
 
